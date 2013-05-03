@@ -1,1 +1,1 @@
-# Moved to https://github.com/DBCDK/rhino-profiler
+# Moved into https://github.com/DBCDK/rje
